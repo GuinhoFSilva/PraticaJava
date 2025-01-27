@@ -92,5 +92,50 @@ Crie um programa que peça um número inteiro e um limite. O programa deve exibi
 
 ### Exercício 16: Conversão de temperatura de Fahrenheit para Celsius
 Peça ao usuário uma temperatura em Fahrenheit e converta para Celsius.
+
+### Exercício 17: Criptografia Alfabética 
+Converte cada letra de uma palavra para sua posição correspondente no alfabeto (A=1, B=2, ..., Z=26).  
+
+---
+
+### Exercício 18. Ordenação Crescente de Dígitos 
+Recebe um número inteiro e retorna os dígitos ordenados de forma crescente.  
+
+**Exemplo de uso:**  
+Entrada: `24245609`  
+Saída: `[0, 2, 2, 4, 4, 5, 6, 9]`  
+
+---
+
+### Exercício 19. Ordenação Decrescente de Dígitos 
+Recebe um número inteiro e retorna os dígitos ordenados de forma decrescente.  
+
+**Exemplo de uso:**  
+Entrada: `123123`  
+Saída: `[3, 3, 2, 2, 1, 1]`  
+
+---
+
+### Exercício 20. Ordenação Alfabética de Palavras 
+Recebe uma frase e retorna as palavras ordenadas em ordem alfabética, ignorando maiúsculas e minúsculas.  
+
+**Exemplo de uso:**  
+Entrada: `"Uma frase"`  
+Saída: `[frase, uma]`  
+
+---
+
+### Exercício 21. Identificação de Dígitos Repetidos 
+Recebe um número inteiro e retorna os dígitos que aparecem mais de uma vez.  
+
+---
+
+### Exercício 22. Soma de Dígitos Únicos 
+Calcula a soma dos dígitos únicos de um número, ignorando repetições.  
+
+**Exemplo de uso:**  
+Entrada: `12134`  
+Saída: `10`  
+*(1 + 2 + 3 + 4)*  
   
 
