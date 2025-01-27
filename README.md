@@ -153,3 +153,6 @@ Crie um método que receba uma string e retorne uma lista com as letras que apar
 
 Entrada: `"letras duplicadas"`  
 Saída: `[a, s, d, l]`
+
+### Exercício 25. Soma dos Valores Ímpares
+Crie um método que receba um número inteiro e retorne a soma de todos os dígitos ímpares.
