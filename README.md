@@ -146,3 +146,10 @@ Entrada: `112233`
 Saída: `6`  
 *(1 * 2 * 3)*  
 
+### Exercício 24. Letras Duplicadas
+Crie um método que receba uma string e retorne uma lista com as letras que aparecem mais de uma vez. Considere apenas letras (ignorar espaços e números) e desconsidere maiúsculas e minúsculas (ex.: "A" e "a" são iguais).
+
+**Exemplo de uso:**
+
+Entrada: `"letras duplicadas"`  
+Saída: `[a, s, d, l]`
