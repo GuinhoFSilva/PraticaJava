@@ -137,5 +137,12 @@ Calcula a soma dos dígitos únicos de um número, ignorando repetições.
 Entrada: `12134`  
 Saída: `10`  
 *(1 + 2 + 3 + 4)*  
-  
+
+### Exercício 23. Multiplicação de Dígitos Únicos
+Crie um método que receba um número inteiro positivo e retorne o produto de seus dígitos únicos (não repetidos). Se o número tiver apenas dígitos repetidos, o produto será 1.
+
+**Exemplo de uso:**  
+Entrada: `112233`  
+Saída: `6`  
+*(1 * 2 * 3)*  
 
